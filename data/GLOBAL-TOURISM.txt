@@ -1,0 +1,1668 @@
+GSTA THEMIS 9&
+
+. . World Tourism Organization J)
+Tourism Alliance
+
+FROM THE AMERICAN PEOPLE UNIVERSITY
+
+WASHINGTON DC
+
+THE GEORGE
+. WASHINGTON
+&
+
+GLOBAL TOURISM
+ACHIEVING SUSTAINABLE GOALS
+
+Sustainable Tourism: International Cooperation for Development
+
+ONLINE TOOL KIT AND RESOURCE SERIES
+
+Primary Authors
+Brian T. Mullis
+Frances Figart
+
+Sustainable Travel International
+
+Contributors
+Roberta Hilbruner, USAID
+Donald E. Hawkins, George Washington University
+
+This publication is made possible by the support of the American People through the United States
+Agency for International Development to the Global Sustainable Tourism Alliance cooperative agreement
+#EPP-A-00-06-00002-00. The contents of this publication are the sole responsibility of the author(s) and
+
+do not necessarily reflect the views of USAID or the United States Government.
+
+Table of Contents
+
+Preface
+
+Acronyms
+
+Unit 1 — Introduction to Sustainable Tourism
+
+Unit 2 — Tourism Policies, Practice, and International Cooperation
+
+Unit 3 — Sustainable Tourism Tools and Strategies
+
+Unit 4 — The Green Economy and Tourism
+
+Unit 5 — Tourism, Trade, and Development
+
+Unit 6 — Biodiversity Conservation and Protected Areas
+
+Unit 7 — Collaborative Mechanisms and Social Networks
+
+Unit 8 — Sustainable Tourism Standards and Quality Assurance Systems
+
+Glossary {
+
+References 1
+
+In accordance with Title 17 U.S.C. section 107, any copyrighted material herein is distributed without
+profit or payment for non-profit research and educational purposes only. If you wish to use copyrighted
+materials from this publication for purposes of your own that go beyond ‘fair use’, you must obtain
+permission from the copyright owner.
+
+International Institute for Tourism Studies
+The George Washington University 2201 G Street, NW
+Washington, DC 20052
+
+46
+52
+67
+79
+
+96
+
+Preface
+
+The target audience for this manual includes professionals working on tourism-related projects in developing
+countries, including staff from donor and government agencies, non-governmental organizations, consulting
+firms, universities, businesses, and other entities. Some specific examples of audiences that would benefit
+
+include:
+
+© Residents or expatriate professionals engaged in development assistance activities
+
+® Local authorities such as a destination management organization, tourism office, promotion agency, or
+organization exercising governance power over tourist activities
+
+®@ Public, semi-public, or civil society administrators or professionals responsible for the development,
+promotion, or organization of tourism activities
+
+© Destination management companies responsible for managing commercial activities for city, theme
+park, or resort destinations
+
+© Local, public, or private tourism operators offering activities, transportation, lodging, food, attractions,
+
+events, or others concerned with enhancing the long-term sustainability and competitiveness of
+
+tourism destinations
+
+Private, local entrepreneurs
+
+Non-governmental organizations seeking to fulfill their missions through sustainable initiatives
+
+Consultants involved in tourism planning and development
+
+University professors teaching tourism or planning courses
+
+We would like to express our deep appreciation and gratitude to a number of individuals who shared their
+knowledge and experience in the production of this publication, particularly Donald E. Hawkins, Annessa
+Kaufman, and Kristin Lamoureux of George Washington University.
+
+The Global Sustainable Tourism Alliance Management Partners — FHI 360', The George Washington
+University, Solimar International, and the Nature Conservancy — provided helpful guidance. Roberta
+Hilbruner of USAID offered numerous reviews, suggestions, and outreach with those working in the field.
+
+We also express our appreciation to the World Tourism Organization and the WTO Themis Foundation for
+permission to utilize information from their publications and to pilot test this publication.
+
+We would like to express our deep appreciation and gratitude to a number of individuals who shared their
+
+knowledge and experience in the production of this publication, particularly to our editor, Jon Kohl and to
+Annessa Kaufman and Kristin Lamoureux of George Washington University.
+
+Brian T. Mullis and Frances Figart
+
+' FHI has acquired the programs, expertise and assets of the Academy for Educational Development (AED).
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 2
+
+Acronyms
+
+BINGOs — Big International NGOs
+
+BITC — Business in the Community
+
+CAP — Conservation Action Plan
+
+CBD — Convention on Biological Diversity
+
+CER — Certified Emission Reductions
+
+CSR — Corporate Social Responsibility
+
+DANTEI — Development Assistance Network for Tourism Enhancement and Investment
+DMO — Destination Marketing Organization or Destination Management Organization
+FDI — Foreign Direct Investment
+
+EMG — Environmental Management Group
+
+GATS — General Agreement on Trade in Services
+
+GCET — UNWTO Global Code of Ethics for Tourism
+
+GEF — Global Environment Facility
+
+GDP — Gross Domestic Product
+
+GRI — Global Reporting Initiative
+
+GSTC — Global Sustainable Tourism Criteria
+
+HRM — Human Resource Management
+
+IADB — Inter-American Development Bank
+
+IFC — International Finance Corporation
+
+ILO — International Labor Organization
+
+LDCs — Least Developed Countries
+
+LOHAS — Lifestyles of Health and Sustainability
+
+MDGs — Millennium Development Goals
+
+NGOs — Non-Government Organizations
+
+NTOs — National Tourism Organizations
+
+PPP — Public-Private Partnership
+
+RTAs — Regional Trade Agreements
+
+SCALE — System-wide Collaborative Action for Livelihoods and the Environment
+SIDS — Small Island Developing States
+
+SME — Small and Medium Enterprises
+
+STEP — STI’s Sustainable Tourism Certification Program™
+STSC — Sustainable Tourism Stewardship Council
+
+TFD — Tourism for Development
+
+TIA — Travel Industry Association
+
+TTSA — Travel and Tourism Satellite Account
+
+UNCED — United Nations Convention on the Environment and Development
+UNDP — United Nations Development Program
+
+UNWTO — United Nations World Tourism Organization
+USAID — United States Agency for International Development
+WHC — World Heritage Centre
+
+WTO — World Tourism Organization
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS
+
+Unit | — Introduction to
+
+Sustainable Tourism
+
+Many words and phrases have lost meaning and become cliché due to overuse, the word
+“sustainability” among them. It is important for this course, then, that such words avoid
+misinterpretation. But before we define terms, let us consider the origins of sustainable tourism. This
+will provide perspective for commonly used green tourism-related terminology.
+
+A HISTORY OF THE SUSTAINABLE TOURISM MOVEMENT
+
+In 1992 a hundred governments came together in Rio de Janeiro to attend the United Nations
+Convention on the Environment and Development (UNCED, also known as the “Earth Summit”).
+They discussed the state of the world’s environment and measures necessary to decrease impacts of
+development on the natural world in pursuit of a sustainable future. Although they made many
+important decisions, tourism, as a tool for economic development, was not discussed. Nor did the
+summit address tourism’s impacts, positive or negative.
+
+Ten years later, world government leaders came together again, and this time they included tourism in
+their discussions. The World Summit on Sustainable Development, hosted in Johannesburg, South
+Africa in 2002, focused on assessing progress made since the 1992 Earth Summit, as well as addressing
+concerns for the future. By this time, the international travel and tourism industry had earned
+recognition as a powerful force in economic and sustainable development. The UN General Assembly
+also declared 2002 as The International Year of Ecotourism. The following year, the World Tourism
+Organization (WTO) general council and the UN agreed to convert the former into the United
+Nations World Tourism Organization as an agency of the UN.
+
+Spurred by this international dialogue, in 2008 the UNWTO, Rainforest Alliance (RA), United
+Nations Foundation (UNF), and the United Nations Environment Program (UNEP) together created
+the Global Sustainable Tourism Criteria (GSTC). The GSTC, which we will discuss at length in Unit 8,
+seeks common ground and baseline criteria for sustainable tourism. It organizes criteria around four
+pillars:
+
+¢ Effective sustainability planning
+
+¢  Maximization of social and economic benefits to the local community
+¢ Reduction of negative impacts to cultural heritage
+
+¢ Reduction of negative impacts to natural and cultural heritage
+
+These international agreements and coalitions reflect a broader environmental movement that, since
+
+the 1980s, has been pushing for sustainable development to which tourism could make a major
+contribution.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 4
+
+DEFINING SUSTAINABLE TOURISM
+
+To continue this conversation, we must first define tourism and sustainable development. Tourism
+comprises activities of people traveling to and staying in places outside their usual environment for at
+least one night and no more than one consecutive year for leisure, business, and other purposes.
+Sustainable development, which became popular after the Rio Earth Summit in 1992, is broadly defined as
+“development that meets the needs of the present without compromising the ability of future
+generations to meet their own needs” (World Commission on Environment and Development, 1987).
+Sustainable tourism applies the same principle, but to travelers, businesses involved in the travel trade,
+and destinations impacted by tourism development.
+
+Sustainable tourism is a form of tourism characterized by a level of intensity and technology that
+generates sustainable net social, economic, and environmental benefits. Sustainable tourism is a kind of
+tourism that develops in a fair and equitable manner for host communities, both human and natural.
+Sustainable tourism is economically viable in the long-term and avoids damage to the physical and
+cultural environment. In other words, it is tourism that participates in the management of all resources
+that fulfills economic, social, and aesthetic needs while it maintains cultural integrity and biological
+diversity, and environmental quality.
+
+Although they often occur simultaneously, sustainable tourism and ecotourism are not the same.
+Ecotourism typically involves responsible travel to fragile, pristine, and usually protected natural areas,
+and which strives to be low impact and small scale. Like sustainable tourism, ecotourism focuses on
+environmental conservation and the improvement of the wellbeing of local people. When sustainable
+tourism is done in such a way that the local people not only benefit economically and socially, but also
+take a leadership role by initiating and operating the tourism activities, it is known as community-based
+tourism. Some believe, however, that practitioners should not invest too much time in distinguishing
+among definitions of different forms of alternative tourism given that they all point in the same
+direction. One global definition for this family of terms could be a tourism that generates net benefits
+for both human and non-human communities found at destinations and throughout the value chain.
+
+Because sustainable tourism not only promotes economic development, but also environmental and
+cultural conservation — it employs the concept of a triple bottom line. The triple bottom line is an
+expanded baseline for measuring performance, adding socio-cultural and environmental dimensions to
+the traditional economic benchmark used in business. A positive triple bottom line represents net gains
+in environmental conservation, social benefits, economic profits for businesses, as well as local and
+regional economies. It is important to note that net does not imply the absence of losses or damages
+across these three dimensions, it only means that the final tally is positive, where positive impacts
+outweigh negative impacts. All human activity has impacts.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 5
+
+We will look more closely at the concept of the triple bottom later in this unit. But first, we examine
+differences between traditional and sustainable tourism and to examine the role tourism plays in the
+global economy.
+
+TRADITIONAL TOURISM VERSUS SUSTAINABLE TOURISM
+
+Traditional tourism has many drawbacks. It frequently lacks stakeholder involvement, suffers from an
+absence of any long-term planning, and has no enforced regulatory framework. Traditional forms of
+tourism apply direct pressure to the Earth’s ecosystems, exert stress on host communities, compete for
+the use of scarce resources, pollute, are an unstable income source, and often foster community
+frustration.
+
+The many environmental impacts of mainstream tourism include air, noise, and water pollution;
+congestion; destruction of scenic landscapes; improper disposal of solid waste; interruption in ecological
+processes; damage to archaeological and historical sites; and environmental disasters. Social impacts
+include clash of values; loss of local jobs; resentment from local communities; overcrowding; over-
+commercialization; and an increase in prostitution and sex tourism.
+
+Sustainable tourism, by contrast, creates a viable long-term strategy for success, uses regulatory
+frameworks, and creates linkages to other economic sectors. It strives to take pressure off natural
+systems and to collaborate with host communities to foster infrastructure benefits and economic
+stability. It typically employs women and young people of legal age, creates opportunities for small
+entrepreneurs, has low start-up costs with few barriers to entry, and promotes cultural pride,
+awareness, and a sense of ownership.
+
+When tourism is sustainable there are benefits for all stakeholders: to the traveler, to the company
+providing the tourism, and to interests within the host community. Those who choose sustainable
+travel of high experiential and interpretive quality can gain appreciation of other cultures, come away
+with an enhanced global perspective, take action to help protect the destination’s special sense of place,
+and feel good about giving back. Companies who provide sustainable tourism usually benefit from
+improved profitability and competitive advantage, increased market strength customer loyalty,
+attraction of talent and enhanced employee loyalty. Host communities involved in sustainable tourism
+enjoy improved local employment opportunities, increased opportunities for local enterprises, improved
+infrastructure and access to services, and increased participation in decision-making.
+
+TOURISM AS A GLOBAL DEVELOPMENT TOOL
+
+Why is tourism so important to global economic development? Rapid and continuous growth over the
+past twenty years has made tourism one of the world’s most significant sources of employment and of
+Gross Domestic Product (GDP). Tourism particularly benefits developing country economies, where
+most of the sector’s new tourism jobs and businesses are being created. This rapid growth has
+encouraged many developing nations to view tourism as a key component to their economic portfolios.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 6
+
+To provide a perspective on tourism’s impact on the global economy, the World Travel and Tourism
+Council (WTTC) and Oxford Economics estimate that the travel and tourism industry earns $6 trillion
+or 9.5% of the global GDP, with nearly 260 million people employed in the industry. By 2021 they
+predict that travel and tourism will account for $9.2 trillion of global GDP and 324 million jobs
+(WTTC & Oxford Economics, 2011).
+
+% of whole economy Direct Total
+14> GDP
+(constant 2011 prices) Employment
+
+2011 2021 2011 2021
+Figure 1.1. World Travel & Tourism Outlook (WTTC & Oxford Economics, 2011)
+
+The United States uses a statistical instrument that measures relative size and importance of the travel
+and tourism industry, along with its contribution to GDP. The Travel and Tourism Satellite Account
+(TTSA), approved by the UN in March 2002 and endorsed by the UN Statistical Commission, has
+become the international standard. In fact, more than 50 countries employ the approach.
+
+Tourism is big business, and when done right, has enormous cross-sector potential to contribute to
+economic growth and diversification, poverty reduction, biodiversity conservation, and natural
+resources management. It is a powerful tool for addressing other important cross-cutting agendas such
+as gender equity, global health, education, and local governance. But successful tourism requires
+proper planning and management.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 7
+
+1980 1995 2000 a07 210 v.17.1)
+UNWTO Market Trends, Competitiveness and Trade in Tourism Services Section
+Figure 1.2. International Tourist Arrivals, 1950-2020, Current Situation and Forecasts (UNWTO,
+2008)
+
+THE TRIPLE BOTTOM LINE AND IMPACTS OF TOURISM
+
+Generally speaking sustainable tourism protects people and places. It does this by addressing potential
+impacts of tourism on three main areas: environment, society-culture, and economy. Let us look at
+each in detail.
+
+Tourism can impact land, air, water, and biotic communities. How a tourism business recycles waste,
+utilizes energy, controls water usage, minimizes greenhouse gas emissions, and protects natural
+ecosystems all contribute to environmental management. Organized efforts to minimize negative
+impacts can greatly improve the chances of sustainability and a healthier and cleaner environment.
+
+Socio-cultural impacts affect communities’ structures and cultures. Tourism providers benefit
+communities by discouraging cultural imperialism, supporting cultural diversity, and promoting
+tolerance and acceptance of different lifestyles and belief systems. When a tourism business enhance its
+positive socio-cultural impacts and helps local communities maintain their cultural integrity in the face
+of vast economic and developmental pressures, this can greatly benefit both business and community.
+Thoughtful efforts to foster pride in cultural traditions and promote cultural exchange in destination
+communities can effectively preserve cultural identity and improve quality of life.
+
+Economic impacts are usually categorized as direct, indirect, or induced. Direct impacts affect all
+beneficiaries of monetary transactions such as the tourism businesses, wage-earners, tax collectors, and
+other service providers such as a hotel. Indirect impacts include changes in sales, income, or
+employment within industries or businesses that supply products and services to the tourism industry
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 8
+
+(e.g., increased sales in linen supply firms results from an increase in hotel occupancy rates). Induced
+impacts are changes in economic activity resulting from household spending of income earned directly
+or indirectly from the tourism industry and include all sales, income, and jobs that result from
+household spending of increased wages or salary (e.g., hotel employees spending their income on
+housing, food, transportation, and household products and needs). This is sometimes referred to as a
+ripple or multiplier effect. From a development perspective, a tourism business’s success will be
+reflected in its total direct, indirect, and induced economic impacts. Such effects generate employment
+and business opportunities while improving the bottom line, furthering economic development, and
+contributing to a region’s overall appeal.
+
+Leakage is another negative economic impact. When a tourism provider buys supplies or services from
+outside the region(s) in which it operates, or when most revenues associated with a tourism service do
+not remain in the host economy, money is said to leak out of the local economy and thus provide fewer
+local direct or indirect economic impacts. To be economically sustainable for the local economy,
+tourism providers minimize economic leakage to the greatest extent possible.
+
+By focusing on the triple bottom line, those who practice sustainable tourism add socio-cultural and
+environmental dimensions to the traditional economic benchmark. A positive triple bottom line means
+a net improvement in conservation of the natural environment, social benefit for local communities,
+and profitability for shareholders as well as gain for national or regional economies.
+
+A HISTORICAL PERSPECTIVE OF TOURISM’S ROLE IN
+INTERNATIONAL DEVELOPMENT
+
+The vision of tourism as a development instrument is perhaps as old as the concept of tourism.
+Tourism’s capacity to generate income and wealth, to consolidate and enhance the value of cultural and
+environmental heritage, to transmit knowledge and information, and to contribute to peace and
+improved international relations has been discussed by many authors from different perspectives —
+academic, professional, and governmental — over past decades. It is also clear, however, that actual
+tourism policies have paid much more attention to the promotional, microeconomic, and
+entrepreneurial aspects of tourism, rather than to establishing methodologies and good practices in
+tourism for development.
+
+One initial obstacle to TFD theory and practice has undoubtedly been confusion regarding tourism’s
+capacity to generate growth rather than development. Even today, in the context of the United
+Nations Millennium Development Goals, we still speak frequently about eliminating poverty through
+tourism as if everything could be reduced to correcting inequalities in income and wealth. Even if proxy
+variables were used as indicators of development, it would nevertheless seem preferable to use more
+sophisticated approaches that use criteria such as “equal freedom and equal distribution of basic goods"
+(Rawls, 1977, 1988) or "freedom to realize oneself, but also the capacity to go beyond" (Sen, 2004).
+The effects of tourism, measured in these ways, and at least in the medium-term, would transcend the
+mere raising of incomes in specific geographic areas or social sectors.
+
+th
+
+The role of tourism as an instrument of development in the second half of the 20" Century
+encountered circumstances not conducive to tourism’s actual implementation. From the 1950s to
+1970s, tourism policy still had not contributed sufficiently to development theory or practice. In the
+
+1980s and 1990s, the neoliberal theory of development impeded the use of tourism as a public
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 9
+
+instrument. Today, we are truly beginning to establish a new paradigm of development, this time with
+a new vision of the role of governance and of public-private tourism policies (UNWTO, 2005).
+
+MILLENNIUM DEVELOPMENT GOALS AND
+THE ALLEVIATION OF POVERTY
+
+As a new agency of the United Nations, the UNWTO is committed to achieving the Millennium
+Development Goals (MDGs). The eight MDGs, targeted for 2015, are:
+
+Extreme Poverty Goal: Halve extreme poverty and hunger
+
+Primary Education Goal: Achieve universal primary education
+
+Gender Equality Goal: Empower women and promote equality between men and women
+Child Mortality Goal: Reduce under-five mortality by two-thirds
+
+Maternal Health Goal: Reduce maternal mortality by three-quarters
+
+HIV/Aids Goal: Reverse the spread of diseases, especially HIV/AIDS and malaria
+Sustainability Goal: Ensure environmental sustainability
+
+Partnerships Goal: Create a global partnership for development, with targets for aid, trade,
+and debt relief
+
+CNA UYU HWN
+
+Of the eight, UNWTO could have the most significant impact on extreme poverty. In fact, poverty
+reduction through sustainable tourism development has become a central objective of UNWTO since
+the Johannesburg Summit on Sustainable Development in 2002. Research indicates that tourism has
+immense potential to help the global anti-poverty campaign. UNWTO’s analysis has led to the
+following conclusions:
+
+¢ In the world’s developing countries and particularly the LDCs, tourism is almost universally
+the leading driver of economic growth, foreign exchange earnings, investment, and job
+creation.
+
+¢ It is one few potential comparative advantages common to all of these countries.
+
+¢ It has unique potential to carry foreign exchange and investment directly to the local level as
+tourists and entrepreneurs seek new destinations.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS ne)
+
+¢ It can contribute significantly to rural development, agricultural transformation, community
+
+enrichment, and social empowerment, particularly for women.
+
+¢ It can preserve cultural heritage for which excellent examples already exist.
+
+UNWTO currently has a number of initiatives to address poverty. Through the “Liberalization with a
+Human Face” campaign, for example, UNWTO advocates progressive liberalization of tourism, with a
+focus on sustainability and special needs of developing states. This initiative encourages the rapid
+expansion of tourism to catalyze employment, wealth, investment, and poverty elimination (UNWTO,
+2005).
+
+Cambodia China Lao PDR Myanmar VietNam Thailand
+
+@ Transport O Travel O Other Commercial Services
+
+Figure 1.3. Breakdown of Economy’s Total Services Exports (%) by Principal Service Items (World
+Trade Organization Trade Profile 2007, as adapted by International Institute for Trade &
+Development, 2008)
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS lI
+
+TOURISM POLICY, VISITOR EXPERIENCE, AND SYSTEMS THINKING
+
+The development and implementation of sustainable tourism policies must be based on certain
+principles and approaches. Policy must take into account UNWTO’s global vision, the commitment of
+multiple stakeholders, and a long-term strategy. It must consider both global and local impacts and
+frame all impacts within the Polluter Pays Principle. Finally, policy must reduce risks and respect the
+boundaries of tourism development. The next unit will discuss tourism policy in more detail.
+
+Tourism policy then should “ensure that the hosting of visitors is done in a way that maximizes the
+benefits to stakeholders while minimizing the effects, costs, and impacts associated with ensuring the
+success of the destination” (Ritchie & Crouch, 2003). Tourism development policy moreover consists of
+six actions:
+
+Promote sustainable development
+
+Create products for specific visitor market segments
+Gain and maintain competitiveness
+
+Enhance visitor experience
+
+Preserve local resources
+
+AY RYN
+
+Improve residents’ quality of life
+
+Sound policy and sustainable tourism development necessitate the management of visitor experiences
+at tourism destinations. The visitor experience consists of four phases:
+
+1. The pre-trip experience requires both destination planning and tourism provider
+selection. In this phase, stakeholders provide information to potential visitors and
+travelers who make decisions about their vacations.
+
+2. The access-to-destination experience begins when visitors travel to their destination.
+Airlines, immigration protocols, and other intermediaries influence this experience.
+
+3. The on-trip experience starts when tourists actually arrive at the destination. Local
+stakeholders are important to this experience.
+
+4. The post-trip experience occurs when visitors leave the destination and arrive home.
+This phase includes visitors’ reflections on their experience and sharing of their stories
+with friends and relatives.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 12
+
+Figure 1.4. Four Phases of the Visitor Experience
+
+Planning
+
+Selection
+
+Post-trip
+
+Segmenting
+
+Demographics
+
+Planning Window
+
+What is planned in advance
+Role of travel agent or
+distribution channel
+Information sources
+
+Trip motivations
+
+Travel partner or group
+Value propositions
+
+Disposable Income
+Price/Value decision factors
+Final selection criteria
+Preferred package and
+method of purchasing
+
+Disposable Income
+Price/Value decision factors
+Final selection criteria
+Preferred package and
+method of purchasing
+
+Experiences desired
+
+Arrival /departure—border
+formalities, customs, visas,
+immigration, baggage
+transport
+
+Specific needs
+Accommodation
+Restaurants
+
+Service, etc.
+
+Resulting experience
+Experience feedback
+Frequency of return visits
+
+Resulting experience
+Experience feedback
+Frequency of return visits
+
+Figure 1.5. The Visitor Experience Value Chain
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS
+
+International
+
+MARKETS
+
+(visitors)
+
+MARKET
+
+Inter-Agency
+
+Seem) Coordination
+
+Investment
+Policy
+
+Citizen Legal
+Participation In- Framework
+Decision-Making
+
+Governance
+
+Service Industry
+
+Tea, Service Industry
+
+Taxes, Visas MARKET
+
+Financial Policy
+& Infrastructure
+
+Infrastructure
+(transportation,
+utilities,
+‘telecommunications)
+
+Traditions Gender
+
+Cross-Cutting Health &
+Social Issues Safety
+
+Poverty Cultural
+
+Reduction Heritage Education
+
+Financing
+
+(Private) Marketing
+
+Economic
+Growth
+
+Investment
+
+Access to
+Markets
+
+Competitiveness
+
+Figure 1.6. Tourism Systems Map of Issues (Volunteers for Ecomic Growth, 2011)
+
+This phase breakdown is a systems approach helpful to understand sustainable tourism’s components
+
+and how they interact (Figure 1.6). A system is a set of interrelated elements that changes over time. A
+
+systems approach presents the big picture, helps manage for the long term, identifies multiple entry
+
+points, weighs trade-offs and choices, and identifies stakeholders and partners. All are important for
+
+sustainable tourism.
+
+The tourism industry value chain is another systems tool (Figure 1.7). The value chain illustrates
+
+various important linkages that exist between key businesses and their performance. It shows how they
+
+deliver services, explains how to differentiate services through standards and branding, and visualizes
+
+potential points to exploit market demand.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS
+
+Tourists
+
+Travel Agents
+
+Outbound
+
+Operators
+
+Inbound Tour
+
+Operators
+
+Hub Hotels
+
+gg
+o 2
+25
+22
+EF =
+
+Food Service
+
+Providers
+
+Accommodation
+
+Figure 1.7. Tourism Industry Value Chain (Volunteers for Economic Growth, 2011)
+
+15
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS
+
+TRENDS AND CHALLENGES THAT AFFECT TOURISM
+
+Systems thinking applied to sustainable tourism reveals many interrelated factors that change over
+time affecting travel and tourism offerings. Localized trends affect destinations and international trends
+affect the travel trade. The coming decade and a half should see major shifts in the leisure and tourism
+industry, reflecting changing consumer values, political forces, environmental changes, and the
+explosive growth of information technology. No aspect of the industry will remain untouched. The
+challenge for tourism stakeholders in both the private and public sectors is to manage these changes to
+achieve and maintain a competitive advantage for their organizations.
+
+Globalization is a major international trend that accelerates access across borders, which for tourism
+means more foreign tourists as well as increased global competition among international destinations.
+Discretionary income is the most powerful driver of tourism demand.
+
+Political stability is also a prerequisite for the prosperity of most kinds of tourism. Destinations that do
+not grow economically because of political constraints generate fewer outbound and domestic tourists.
+Conflicts between countries constrain tourism flows but can also benefit destinations perceived to be
+safe, such as Costa Rica.
+
+Tourism depends greatly on the natural environment. A region’s attractiveness in turn depends heavily
+on climate and ecosystem type and integrity. Tourism development takes root near attractive natural
+features. Typically, tourism stakeholders, including researchers, have focused on how development may
+enhance management of environmentally sensitive areas and preserve unique environments,
+particularly when these become major attractions. In recent years, however, focus has shifted toward
+tourism’s role in reducing environmental pollution and demands on resource use.
+
+Finally, technological developments create opportunities as well as threats for the tourism and travel
+industry. Tourism is highly dependent upon information and transport technology. The industry needs
+to take advantage of technological innovations to renew and develop products and services (Dwyer et
+al., 2008).
+
+SUMMARY
+
+Since the 1980s, the environmental movement has fertilized the soil of sustainable development to
+which sustainable tourism can make a significant contribution.
+
+It is important to understand the various terms associated with sustainable tourism, differences
+between mainstream and sustainable tourism, and that tourism becomes sustainable when it generates
+triple bottom line profits of environmental protection, socio-cultural improvement, and economic
+health. Sustainable tourism can alleviate poverty, generate income and wealth, consolidate and enhance
+the value of cultural and natural heritage, transmit knowledge and information, and contribute to
+peace and improved international relations. For tourism to become a tool to effect these changes
+requires sound policy that takes into account a global vision, commitment of multiple stakeholders,
+long-term strategies, and other considerations. It is helpful as well to apply a systems perspective to
+traveler experiences and the various relationships that exist in the travel milieu, as well as to consider
+trends and challenges that affect tourism locally and globally.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 16
+
+FOR MORE INFORMATION
+
+¢ On value chain analysis, see the Project Development Module.
+
+* On poverty alleviation and the Millennium Development Goals, see the SAVE Travel
+Networks Module.
+
+¢ On management of the visitor experience, see the Destination Management Module.
+
+¢ An example of a TTSA is The Alaska Tourism Satellite Account, found at
+www.gwu.edu/~iits/Sustainable_Tourism Online _Learning/Mullis/TSA_Final.pdf
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS
+
+Unit 2 — Tourism Policies, Practice, and
+
+International Cooperation
+
+Sustainable tourism is often understood as tourism that maintains the status quo and mitigates impacts
+on the environment, society, and communities. The last few decades have seen a change in both
+philosophy and practice of tourism. This unit addresses some of the ways tourism policies, practices,
+and cooperative initiatives employ a sustainable approach in search of the triple bottom line.
+
+UNWTO TOURISM POLICY FORUM
+
+The UNWTO Tourism Policy Forum in 2005 marked the first time that donor agencies, developing
+countries, and civil society met at a high-level international conference to focus on how to cooperate
+and harness the economic power of tourism for sustainable development. Organized by UNWTO and
+George Washington University — chair of the UNWTO Education Council — the forum attracted
+200 participants and more than 200 observers from 52 countries, including 20 tourism ministers and
+top-level government officials. Participating donor agencies included multilateral banks such as the
+World Bank and Inter-American Development Bank, as well as bilateral development agencies such as
+USAID America, DGSC/MAE Italy, AECI Spain, DGCID/MAE France, SNV Netherlands, GTZ
+Germany, CIDA Canada, and JICA Japan.
+
+The forum’s recommendations in eight key areas led to an impressive declaration which serves as a
+useful checklist for stakeholders and policymakers. These recommendations have been particularly
+relevant to the MDGs described in Unit 1. Forum participants agreed to the following (UNWTO,
+2005):
+
+¢ Build partnerships of equal opportunity and fair representation within destinations, and to
+strengthen their leadership
+
+¢ Engender local community awareness of the tourism planning and its benefits
+
+¢ Foster buy-in for the concept of sustainability by all sectors including the sharing of guidelines
+and good practices
+
+* Delegate authority for decision-making to the appropriate community level and build capacity
+there, and empower local development authorities
+
+¢ Encourage and facilitate brand awareness and a collective image for a destination community
+
+¢ Recognize the uniqueness of the business perspective as different from that of the public sector
+and to communicate effectively in business language
+
+* Develop cross-sector demonstration projects that illustrate linkages, inter-relationships, and
+working partnerships
+
+¢* Call upon governments, bi-lateral and multi-lateral institutions to facilitate access to capital of
+all kinds, and to provide guidance, training, and support on how to access such funding
+
+* Develop land-use policies through a participatory process, and to provide policy incentives for
+private land owners
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 18
+
+¢ Enhance communication and coordination between agencies including the use of advanced
+information communication technologies
+
+¢ Develop educational programs directed to tourism policy stakeholders including local
+communities to promote understanding of cultural heritage resources, and the need for
+
+preservation and social responsibilities;
+¢ Encourage the development of a regional network of researchers, practitioners, and donor
+
+agencies for sustainable tourism development
+
+UNDERSTANDING THE VISITOR
+
+The visitor creates the demand necessary for the survival of destinations and businesses. But what are
+
+the underlying motivations that shape this demand?
+
+«
+Oe
+
+seeeeeessesese
+.
+.
+.
+.
+.
+.
+.
+*
+.
+
+. 4 . . Personal/
+‘ Gender : - = familylifecycle +
+° P. . q influences»
+eee wee = . al
+Tourist
+purchase
+ie weoet! decision 7 rll
+‘ Age : * andholiday *
+q 4 + . q entitlement °
+cy - ' *. ~~
+2 Individua’s *, : 2 a *
+! values and culture * ae, : tag :
+: (eg. : a ae * (brochures, :
+“ 4s . Type of . 2.0) Pf
+ell = experienceor = “Seegeet”
+*% holiday required -
+
+. .
+. .
+
+. *
+*eeaet
+
+Figure 2.1.Tourist Purchase Decision (UNWTO, 2011)
+
+Tourism is different from other consumer purchases because travel experiences cannot be tested in
+advance. Tourism involves extensive pre- and post-consumption stages, preceding and following the
+customer’s journey from pre-planning and decision-making, through to booking, experiencing and
+post-travel evaluation and recollection (see Unit 1 for the phases of a visitor experience). Determinant
+motivations are often used as a starting point to profile different market segments of visitors. This
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 19
+
+segmentation allows marketers and analysts to identify drivers behind tourism product purchases.
+Segmentation also relies on values to profile visitors, which is likely more reliable than other criteria,
+such as demographics, since people’s values remain fairly consistent over time.
+
+Criteria that shape visitor profiles in the 21“ Century include population location and migration;
+variety of tastes; prosperity and attitudes towards work, leisure and tourism; and new technology.
+Global and local trends affect the visitor. Transnational companies cater to millions of mainstream
+tourists, while niche operators offer local products, services and experiences to individuals and groups.
+The rise of low-cost airlines has driven overall growth and democratization of air travel and the
+development of destinations not found near major airports, meaning that the air travel system requires
+high passenger volumes to ensure profitability.
+
+In terms of market demographics, massive growth worldwide of the senior citizen travel segment
+means that the “young old” will continue to play a major role in the tourism industry over the next
+two decades and those catering to this market will need to be cognizant of their needs. The growing
+rate of divorce, increasing rates of remarriage, older parents with younger children, single parent
+families and family groups which include grandparents and even great-grandparents all change the
+conventional model of a traditional household and a holiday. The market is also shifting toward visitors
+purchasing with conscience. For example, the impact of air travel on climate change may influence
+some visitors’ decision of which carrier to use.
+
+Niche
+tourism
+
+Wellbeing: Nature Educational:
+
+* Spa break Gastronomy: based: Activity: * Photography
+- Medical - Wine - - Garden : tal - History
+
+tours
+- Safar
+- Omithology
+
+tourism tourism - Crafts
+
+* Yoga - Food trails
+- Cookery
+course
+
+- Cycling
+- Diving
+
+Figure 2.2. Niche Tourism (UNWTO, 2011)
+
+THE ROLE OF PUBLIC POLICY INTERVENTIONS
+
+Ultimately tourism development depends on political philosophies. The development of sustainable
+tourism has seen a growing interest and involvement of different stakeholders, with the public sector
+often playing a leading role. This role can be multifaceted in the way it promotes a sustainable route to
+tourism development with varying modes of intervention:
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 20
+
+© Regulate activities and behavior
+@ Obligate compliance with policy objectives (e.g. via tax breaks or additional taxation)
+
+® Encourage people to change their behavior through education, advertising, and social
+marketing
+
+@® Do not intervene at all
+
+The UNWTO Sustainable Tourism Program has been active and influential in promoting a global
+framework to coordinate sustainable tourism. The UNWTO’s long-term influence in policy
+development has resulted in wide ranging evaluation of sustainable tourism and an extensive range of
+research, reports, and conferences on the subject. Such policy work is vital to the development of
+sustainable forms of tourism, especially at destinations. Unfortunately the business sector has not
+uniformly adopted sustainable principles. Thus UNWTO believes that diffusing examples of best
+practice will stimulate voluntary interest across the sector
+
+(UNWTO, 2011).
+
+THE VALUE OF TOURISM IN COMMUNITIES
+
+Human communities and cultures can be major attractions. Managers must sustain these resources so
+tourism does not erode their value. As tourism development affects more communities around the
+world, the social dimension of sustainability has grown in significance. The sustainability of
+communities and their dependence upon tourism has to be balanced with local needs and desires. This
+is especially relevant for indigenous attractions. Developers must understand community attitudes and
+needs and accommodate them in their development plans. The challenge of course is that within any
+community a wide range of opinions and stakeholders compete for attention. There is no such thing as
+a single community perspective.
+
+When managed sensitively, tourism can empower people to take control of their own future. Much
+debate centers on the socio-cultural transformations that tourism can bring to communities.
+Interaction between visitor and communities can dilute or even destroy traditional cultures.
+Conversely, these encounters can also foment opportunities for greater understanding and learning.
+Although difficult to generalize, socio-cultural impacts typically depend upon the degree of cultural
+similarity or dissimilarity between the developers and communities as well as the following factors:
+
+¢ The type and numbers of visitors to the community: In general the greater the number of
+visitors the higher the impact, although this depends on how visitors interact with the local
+community.
+
+¢ The level of dependence that the community has on tourism
+
+¢ The size, scale, and pace of development. Too fast development can overwhelm a system’s
+capacity to adapt.
+
+* Community attitudes towards
+
+Community-based tourism has become increasingly popular. Recent developments include concepts
+such as Community Benefit Tourism Initiatives and Pro-Poor Tourism to create local economic
+benefits for communities through community control of tourism development. Here NGOs build local
+capabilities in the community necessary for the implementation of a sustainable development strategy.
+Many authorities cite ecotourism as an approach to empower communities (UNWTO, 2011). See
+Table 2.1.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 2|
+
+Table 2.1. Ecotourism Impacts on Local Communities (UNWTO, 2011)
+
+Economic empowerment
+
+Psychological empowerment
+
+Social empowerment
+
+Ecotourism brings lasting economic
+gains to a local community. Cash
+earned is shared between many house-
+
+holds in the community.
+
+For some, self-esteem is enhanced
+because of outside recognition of the
+uniqueness and value of their cul-
+ture, their natural resources and their
+traditional knowledge. This leads to
+increased confidence in seeking edu-
+cation and subsequent access to em-
+ployment.
+
+Community cohesion is improved
+
+as individuals and families work
+together to build a successful
+ecotourism venture. Some funds
+raised are used for community de-
+velopment purposes, e.g. to build
+
+schools or improve roads.
+
+Ecotourism merely results in small,
+spasmodic cash gains for a local com-
+munity. Most profits go to local elites,
+
+outside operators, government agen-
+
+cies, etc. Gain not evenly spread be-
+
+cause some lack capital and/or appro-
+priate skills.
+
+Many people have not shared in the
+benefits of ecotourism, yet they may
+face hardships because of reduced
+access to the resources of a protected
+
+area.
+
+Many in the community take on
+outside values and lose respect
+for traditional culture and for
+elders. Can cause resentment and
+jealousy as individuals, families,
+ethnic or socio-economic groups
+
+compete.
+
+ENVIRONMENTAL DIMENSIONS OF SUSTAINABILITY
+
+The quality of the environment, both natural and man-made, is essential to tourism. Tourism’s
+
+relationship with the environment, however, is complex. It involves many activities that can adversely
+
+alter the environment. Many impacts arise from infrastructural construction such as roads, airports
+
+resorts, hotels, restaurants, shops, golf courses, and marinas. Tourism can gradually or rapidly destroy
+
+the very resources on which it depends. On the other hand, tourism has the potential to benefit the
+
+environment by protecting it. Tourism can raise awareness of environmental values and serve as a tool
+
+to finance protection as well as increase their economic value (UNEP, 2011).
+
+In the 1950s it [tourism and the environment] was viewed as being one of
+
+coexistence... However, with the advent of mass tourism in the 1960s, increasing
+
+pressure was put on natural areas for tourism developments. Together with the
+
+growing environmental awareness and concerns of the early 1970s, the relationship
+
+was perceived to be in conflict. During the next decade this view was endorsed by
+
+many others...at the same time a new suggestion was emerging that the relationship
+
+could be beneficial to both tourism and the environment (Dowling, 1992, p. 33).
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS
+
+22
+
+Tourism’s environmental impacts have generated significant debate in relation to sustainability. Such
+impacts include noise, scenic deterioration from development (e.g. high rise hotels), transport-related
+congestion and atmospheric emissions (i.e. greenhouse gases) as well as solid and effluent discharges.
+Yet the destination environment is arguably one of the main attractions of tourism and is the resource
+base upon which tourism depends.
+
+Tourism development leads to land use change, energy consumption, and impacts on wildlife.
+However, it is difficult to determine how much change directly results from tourism compared to
+natural environmental change, and resident behavior. Natural attractions may need public sector
+intervention to manage visitors. The precise environmental impacts and their subsequent management
+will vary according to environment. There are numerous strategies to manage demand at destination
+
+and specific sites (UNWTO, 2011).
+
+ECOTOURISM AND BIODIVERSITY
+
+Tourism, especially ecotourism, can benefit the environment. The case study “Positive outcomes of
+ecotourism” demonstrates some positive outcomes of ecotourism (UNWTO, 2011).
+
+Ecotourism requires regulation, and the following case study “Ecotourism Kenya’s Eco-rating scheme”
+illustrates the approach taken by Ecotourism Kenya to promote certified ecotourism and sustainable
+tourism practices (UNWTO, 2011).
+
+Tourism can either threaten or support biodiversity. UNWTO and the Secretariat of the Convention
+on Biological Diversity (CBD) have been collaborating since the International Year on Ecotourism in
+2002. In 2006 UNWTO established the Consulting Unit on Tourism and Biodiversity. UNWTO also
+participates in the UN inter-agency Environmental Management Group (EMG) report on advancing
+the biodiversity agenda within the UN system. This work contributes to the preparation of the CBD’s
+Strategic Plan for 2011-2020. The EMG report 1) aids the formulation of post-2010 biodiversity
+targets; 2) provides information about policy interactions within the UN with respect to biodiversity;
+creates awareness in the UN about the CBD process; and identifies how collaboration in the UN can
+support the biodiversity agenda (UNWTO, 2011).
+
+TRANSPORT AND INFRASTRUCTURE
+
+Global organizations that monitor climate change forecast that by 2030 transport-related carbon
+dioxide emissions will rise 80% from their 2002 levels. The insatiable global demand for travel and the
+modern attachment to the car, make changes to tourism challenging.
+
+Many climate scientists predict that society must reduce emissions by 50-80% to avoid major climatic
+shifts at the same time that tourism is increasing its emissions. While global agreements such as the
+Kyoto Protocol set targets for cutting emissions, the transportation and tourism sectors continue to
+grow. This presents a major challenge for tourism’s long-term sustainability, since existing travel
+
+* To see case studies visit
+www.gwu.edu/~iits/Sustainable_Tourism_Online_Learning/Mullis/Policy_Practices_ UNWTO_book_feb.pdf
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 23
+
+patterns must change in order to reduce emissions. More fuel-efficient, less polluting technologies alone
+will not entirely compensate. Travel patterns must change, perhaps radically. Reduction targets then
+may imply slower growth in air travel, perhaps even a decline.
+
+Two shifts may include an increase in rail and other terrestrial transportation, though these two run
+risks of congestion and limited capacity. Tourism in industrialized countries, then, will need to slow
+growth to compensate for growth in emissions in developing countries. Ultimately the most radical
+solution will be the de-carbonization of the tourism industry, assisted by new technologies and travel
+management, based on emissions quotas and pricing structures to limit growth. This will require major
+leaps forward in transportation technology and policy innovation to achieve such drops in carbon
+emissions.
+
+A study of low carbon-based land transport in the United Kingdom by Bristow et al. (2008) offers a
+number of useful insights and suggestions for how technological change may assist de-carbonization
+including:
+
+° Efficiency gains of the internal combustion engine (presupposing available oil supplies)
+
+¢ Hybridization of car engines in smaller, more efficient vehicles
+
+¢ Hybrid buses and electric vehicles powered with fuel cell technology
+
+¢ Greater use of bio-fuels
+
+¢ Electrification of the rail network, which could save 12% compared with conventional diesel
+engines, and could be improved further through regenerative braking and lighter trains
+
+¢ Restraints on demand through new price structures
+
+¢ Improved pricing and quality service of public transportation
+
+¢ Workplace transportation strategies such as car sharing and telecommuting
+
+¢ Policy measures such as allowing continued increases in petrol prices
+
+In aviation other measures are emerging such as the European Emission Trading Scheme proposing a
+greater user pay approach to air travel. Policy, nevertheless, is only slowly addressing carbon emissions
+(Bristow et al., 2008). Technology is a partial answer. Tourist behavior must also change. See the case
+study (UNWTO, 2011). on how Iberian Airlines is reducing its carbon emissions at
+http://www.gwu.edu/~iits/Sustainable_Tourism Online _Learning/Mullis/Policy Practices UNWTO
+
+_book_feb.pdf
+
+CULTURAL RESOURCES AND CLIMATE CHANGE
+
+Climate change also affects cultural resources. According to Climate Change and Tourism: Responding
+to Global Challenges, (UNWTO &UNEP, 2008) climate change can harm architectural heritage:
+
+¢ Rising sea level may flood coastal structures
+
+* Coastal erosion can cause flooding and structural damage
+
+¢ Increased rainfall can flood foundations
+
+¢ Reduced drainage could increase flooding
+
+¢ Increased wind could damage roofs and walls. Deteriorated structures especially may suffer.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 24
+
+In 2005, the UNESCO World Heritage Centre assessed the impacts of climate change on World
+Heritage. The 2007 report contains 26 case studies of natural and cultural heritage. It found, for
+example, that buried archaeological material could be rapidly lost if soil structure and composition
+changed due to altered precipitation patterns, permafrost melting, and floods. Though costly, possible
+mitigation strategies for cultural heritage include:
+
+¢ Implementation of master and response plans, such as water supply planning (in drought
+susceptible destinations), risk assessment and preparedness strategies, and early warning
+systems.
+
+¢ Use of monitoring to assess changes and justify protection.
+
+¢ Reconstruction and stabilization of historical buildings and archaeological sites combining
+traditional materials and skills and modern engineering
+
+ENERGY USE AND ECO-EFFICIENCY
+
+The term eco-efficiency refers to how resource use in tourism can evaluate energy use and
+economic use. As energy use is the principal contributor of emissions, this tool helps to
+logically measure and compare the relative efficiency of tourism versus other sectors of the
+economy and different forms of tourism. The energy efficiency of the tourism sector can be
+divided into three discrete sectors: transport, accommodation and the activities of visitors at
+the destination. The examples below demonstrate some of the measures being undertaken by
+accommodation providers to save energy and water.
+
+Globally, there are significant variations in eco-efficiency levels that are often a result
+of the impact of long-haul travel on the tourists’ carbon footprint (Géssling et al.,
+2005). Tourism is much less favorable in terms of its eco-efficiency compared to other
+industry sectors, since it is a highly energy and resource-intensive activity.
+Interestingly, Géssling et al. (2005) question the efficacy of pro-poor tourism
+strategies that are dependent upon the movement of long-haul tourists from western
+industrialized nations to developing countries. Given the poor eco-efficiency of such
+tourist flows, this is a major challenge to our thinking on sustainability and poverty
+alleviation. If greenhouse gases are to drop by 80% by 2030 or 2050, we need a
+major reorientation of tourist travel away from long haul to more local and shorter
+haul destinations. The longer the traveling distances, the less eco-efficient the trip,
+but this may be offset to a degree by staying longer at the destination with higher
+expenditures per day.
+
+Other issues like long-term energy supplies of oil may lead to a reorientation and re-
+pricing of long-haul travel alongside more environmental polluter-pay type measures
+that will certainly provide obstacles to tourist travel. In this respect, the challenge for
+tourism businesses is to implement a future aimed at carbon neutral tourism, to
+reduce costs and the energy consumption, to offset the uncompetitive position this
+may place destinations in over the long-term. Yet natural limitations, such as water,
+
+may also add a degree of constraint on future tourism development as the next section
+
+shows (UNWTO, 2011, pp. 68-70).
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 25
+
+WATER SUPPLY AND SHORTAGES
+
+Climate change impacts freshwater supplies, making them scarcer in some regions of the world.
+Tourism depends on water for meeting visitors’ basic needs (drinking, sanitation, and hygiene).
+Tourism has to compete with other sectors of the economy (e.g. agriculture and industry) and domestic
+needs for water. Studies have shown that the average tourist can use anywhere from 200 to 2,000 liters
+a day. This use can be significant in regions of water scarcity.
+
+A World Wildlife Fund (2004) study of tourism and water use in the Mediterranean found that daily
+average tourist water use in Spain ranged from 300 and 850 liters where swimming pools and golf
+courses were present. Géssling et al. (2005) calculated the global average for tourist water
+consumption to be 222 liters per day.
+
+The UNWTO 1” International Conference on Climate Change and Tourism in 2007 highlighted
+threats and risks of water scarcity to tourism. In small island states, water supplies can be directly
+impacted by highly consumptive tourists. Already some islands now ship in fresh water during peak
+season. Some countries, such as the United Arab Emirates, have turned to desalination, despite the
+method’s high costs of money, energy, and greenhouse gas emissions (assuming the use of fossil fuels,
+rather than solar). Political conflict has already begun to stir due to competition for limited water.
+
+Long-term sustainability depends greatly on how water is used. Places that overpump ancient aquifers,
+for example, suffer saltwater intrusion. In addition to these problems, climate change compounds the
+availability and distribution of water. Among the most obvious solutions include the reduction of water
+use (such as halting irrigation of ornamental plants and replacing them with more drought-tolerant
+choices). Hotels can redesign swimming pools and increase desalination. Golf courses can recycle
+treated effluent, rather than use potable water to irrigate. They can also use saltwater on salt-resistant
+grass (UNWTO, 2011).
+
+ETHICAL CODES AND SOCIAL RESPONSIBILITY
+
+Communities and organizations are beginning to use codes of practice to guide tourism development
+and visitor behavior. The UNWTO Global Code of Ethics for Tourism (GCET)
+(www.gwu.edu/~iits/Sustainable_Tourism Online _Learning/Mullis/WTOGlobalEthicsCode.pdf) is a
+prime example. Adopted in 1999, GCET is a comprehensive set of principles whose purpose is to guide
+
+stakeholders — central and local governments, local communities, tourism sector and its professionals,
+as well as visitors, both international and domestic — in tourism development. The UNWTO General
+Assembly passed a resolution to create the Code in Istanbul in 1997. More than 70 UNWTO member
+states and other entities participated in its development. In October 1999, the General Assembly in
+Santiago unanimously approved the ten-point Global Code of Ethics for Tourism (UNWTO, 2011).
+
+Corporate social responsibility (CSR) is another catalyst for social development. CSR is a voluntary self-
+regulation by businesses of their own adherence to rules, regulations, ethical standards, and laws.
+Companies self-report their effect on the environment, communities, stakeholders, and consumers.
+Thus leading corporations not only produce an annual report of financial performance, but also their
+performance in sustainable development and responsible business. Core elements of a sustainability
+report include corporate policy, strategy and objectives to achieve and maintain sustainable
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 26
+
+development, and data to reflect performance measured against specific environmental and social
+
+targets. They also include future targets and a summary of key steps to help achieve these targets.
+
+Figure 2.3: What is Sustainability Reporting? (BMT Group, 2008)
+
+Thousands of organizations disclose their greenhouse gas emissions, water use, and climate change
+strategies through The Carbon Disclosure Project, an independent not-for-profit organization that
+maintains the largest database of corporate climate change information in the world
+(https://cdproject.net/en-US/Pages/HomePage.aspx) The Global Reporting Initiative (GRI) is a
+network that pioneered the world’s most widely used sustainability-reporting framework. GRI is
+
+committed to the framework’s continuous improvement and worldwide application. GRI’s goals
+include mainstreaming disclosure of environmental, social, and governance performance
+(www.globalreporting.org/Home).
+
+The CSR approach depends on self-interest as well as philanthropic interest in stakeholders as well as
+pursuit of short-term profits. CSR also reflects growing interest among consumers concerned that
+companies improve relations with both communities and the environment.
+
+To advance this agenda across the global tourism community, UNWTO launched TOURpact GC in
+September 2008. This new CSR framework for companies, associations, and other tourism stakeholders
+reflects the principles of the Global Compact and UNWTO’s GCET. The Global Compact is a
+voluntary initiative designed to mainstream ten key principles of social responsibility in business and to
+catalyze support for the UN MDGs.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 27
+
+POVERTY ALLEVIATION AND COMMUNITY WELLBEING
+
+Tourism as a force for poverty alleviation cannot be underestimated. Extreme poverty is widespread in
+many developing countries where access to clean water, food, shelter, and medical care is limited.
+According to World Bank (2008) revised estimates on poverty, 1.4 billion people live at or below the
+poverty line of $1.25 per day.
+
+In many developing countries, tourism is already a major economic player. Tourism is a principal
+export in over 80% of developing countries and the main export of one third of them. In some
+developing countries, notably small island states, tourism can account for over 25% of the GDP
+(UNWTO & SNV, 2010a).
+
+Pro-poor tourism is tourism used strategically to help reduce poverty. The concept has a relatively
+short history since the late 1990s. It reflects prevailing rhetoric and interest in “solving” poverty. The
+“war on poverty” earned credence with the MDGs established by the UN, goals which range from
+halving extreme poverty to halting the spread of HIV/AIDS and providing universal primary education
+by 2015. UNWTO has focused on poverty alleviation, recognizing the pivotal role tourism can play.
+
+SOCIAL MARKETING AND NEW MEDIA
+
+Social marketing involves the application of commercial marketing principles and other social change
+techniques to achieve socially desirable goals and influence individual behaviors. Social marketing
+communicates benefits of more responsible tourism, such as that used to reduce poverty. But social
+marketing is more complex than advertising. It applies marketing concepts to improve human welfare.
+NGOs in particular have used social marketing. There is a growing recognition of its potential in
+responsible tourism (UNWTO, 2011).
+
+DESTINATION DEVELOPMENT AND COMPETITIVENESS
+
+What makes a destination truly competitive?
+
+The ability to increase tourism expenditure, to increasingly attract visitors while
+providing them with satisfying memorable experiences, and to do so in a profitable
+way, while enhancing the wellbeing of destination residents and preserving the
+natural capital of the destination for future generations (Ritchie & Crouch, 2003, p.2).
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 28
+
+Comparative Destination Competitiveness and Sustainability tae
+Advantage Advantage
+Qualifying and Amplifying Determinants
+
+Destination Planning, Policy, and Development
+
+Destination Management
+
+Core Resources and Attractions
+Supporting Factors
+
+Figure 2.4. Model of Destination Competitiveness (Ritchie & Crouch, 2003)
+
+°
+Ww
+Sw
+ae
+oO
+
+2d
+‘B96
+y =
+vo
+
+ae
+ism]
+°
+O
+
+JuUaUTUOTAUY O1DVYW [eqo[H
+JUOUIUOTIAUY O1DVYW [eqo[D
+
+Tourism, by virtue of its nature, will always be subject to extraneous local and global issues that impact
+market trends relating to travel. For destinations to improve their competitiveness, it is advisable to
+adopt an approach that can ride out the highs and lows of the tourism rollercoaster and which
+preserves destination appeal for years to come. The tourism product should be able to evolve and
+adapt, not just to attract and retain visitors, but to balance economic growth with shifts in the social
+and environmental needs of the destination (UNWTO, 2011).
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 29
+
+INNOVATION IN DESTINATION MANAGEMENT
+
+Without innovations, business cannot
+attain sustainable growth and
+development. As tourism has expanded
+and become increasingly competitive,
+destination management organizations
+have had to focus and specialize to stay
+ahead.
+
+Innovation can be seen from various points
+of view. First, being strategic and
+intelligent can be identified as the main
+driving force for the innovation. For
+example, the unexpected decrease in tourist
+arrivals to the destination motivates
+management to act and develop an
+innovative strategy to reverse the
+downturn. On the other hand, the goals
+
+can be the driving force for the innovation.
+
+For instance, if the tourism destination set Figure 2.5. Factors that Characterize Innovative and
+
+its goal to increase income from Successful Tourism Destinations (UNWTO, 2011)
+international arrivals,
+
+it might introduce new cultural tourism products.
+
+HUMAN RESOURCES
+
+Tourism is first and foremost a people business: people turn the supply of resources into experience
+opportunities, which are then consumed by visitors. The high level of human involvement in tourism
+experiences is key to creating value for the consumer. The relationship between consumer and
+employee can make or break the experience and is entirely dependent upon three interconnected
+elements to human resource development: education, training, and personnel management.
+
+UNWTO has a critical role in promoting human resource development (HRM) and some of its affiliate
+members have provided examples of best practices. The diverse range of tasks requires an
+understanding of labor markets and the overall management of staff activities. In addition, one of the
+greatest challenges is to manage a diverse work force with different cultural, age, and gender
+demographics.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 30
+
+grievance and
+dispute procedures
+
+Figure 2.6. Issues for the Human Resource Manager to Understand (UNWTO, 2011)
+
+MANAGING CRISES AND DISASTER
+
+Prosperous tourism requires macroeconomic stability and relative stability of other factors that shape
+tourist decision-making such as the market’s perception of the destination. When shocking events such
+as terrorist attacks, natural phenomena, and other disasters such as the onset of SARS or swine flu
+occur, tourism is one of the first sectors to absorb the impact. There have been a growing number of
+such events year after year (Glaesser, 2006). Global media immediately alert the world to these events
+which can contribute to a tourist’s decision to cancel or change destinations.
+
+The first-impact nature of tourism demands advance crisis planning especially many crisis management
+plans relegate non-essential activities such as tourism to the lowest priority. In the midst of crisis,
+political attention understandably concentrates on stabilizing the situation and providing basic needs
+such as shelter, food, water, and medical care.
+
+Tourism stakeholders need to ensure capacity to weather crises. Without such foresight, destinations
+will unlikely build capacity to recover (UNWTO, 2011).
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 3|
+
+CREATING SUSTAINABLE PARTNERSHIPS
+
+There is growing recognition within the tourism community that the effective destination tourism
+management is best achieved through effective public and private partnerships. Consequently, in the
+last two decades, management theory has broadened its traditional focus on planning, leading,
+organizing, and coordination to include partnerships, cooperation, and collaboration. UNWTO now
+actively promotes greater collaboration among stakeholders in the tourism sector.
+
+Collaboration is vital for increasing destination competitiveness. Several elements increase
+competitiveness. Greater emphasis on partnerships enables public institutions to address the dispersed
+perhaps unconsolidated network of providers that has afflicted the tourism sector. To remain attractive,
+destinations must pursue innovation across the tourism supply chain. The cooperation of different
+stakeholders helps make the destination more visitor-focused so that the different interactions the
+visitor has with the destination can be enhanced and value added. This in turn helps fulfill visitor
+satisfaction, encourages repeat visitation, and increases word-of-mouth marketing.
+
+The concept of social capital is also meaningful in this context. Many organizations and enterprises
+recognize that investing in this form of capital — in communications, linkages, and networks with
+others — and the support and exchange of ideas this investment brings, they are investing in their
+survival. Often the motive for multi-stakeholder collaboration is expressed quite generally — simply
+that the task of delivering sustainable tourism is too complex and there are too many stakeholders, so it
+is essential to work together (UNWTO & SNV, 2010b).
+
+Some sustainable tourism partnerships include:
+
+Public-private partnerships: Tourism, like other economic sectors, has always sought methods to
+govern its own affairs with the greatest level of stakeholder cooperation. This is why public-private
+collaboration occupies a preeminent place in public tourism policy at any destination anywhere.
+
+Tourism business networks: Small and medium enterprises (SMEs) are the dominant business form in
+most countries, but they are highly fragmented and uncoordinated. One action that many public sector
+entities with an interest in tourism have promoted is the formation of SME networks. Successful
+network development depends on several factors, as is illustrated in Figure 2.7.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 32
+
+Figure 2.7. Critical Success Factors in Network Development for SMEs
+(UNWTO, 2011)
+
+Destination management organizations: At a regional level, the DMO should actively engage all its
+stakeholders. The private sector in particular likes the DMO’s marketing role. Often the DMO will
+have its own marketing budget but it will also be a bridge between national agencies and the industry.
+While the national tourism authority will almost certainly be the single most significant tourism
+marketer, the collective industry budget will be much greater. If the DMO can bring together public
+and private resources so that they mutually reinforce, the collaboration can leverage those resources to
+a greater extent.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 33
+
+WIDER COLLABORATION AND FUTURE AGENDAS
+
+Alongside SME collaboration, there should also be collaboration of the public and private sectors and
+with other organizations. Ideally public and private sectors collaborate with academia (Figure 2.8),
+known as the Triple Helix Model.
+
+This model has a number of
+drawbacks, not the least of
+which is forging agreement
+between parties with
+different objectives. The
+collaborations that have
+seen the most success are
+those involving public-
+private
+
+partnerships rather than
+those that include
+academia, NGOs, or civil
+
+society. This deficiency may
+arise from different forms of
+
+knowledge that are not
+easily shared and Figure 2.8. Triple Helix Model (UNWTO, 2011)
+understood between
+academia and other
+sectors. As a result, knowledge sharing remains limited and the Triple Helix model has only been
+embraced in a limited number of settings despite the role of government policy to promote such
+
+knowledge exchange from academic tourism researchers to institutes in many countries.
+
+In the future, there is need for the wider use of adaptive management to enrich public-private
+partnerships and to make the Triple Helix operational (OUNWTO, 2011).
+
+MECHANISMS FOR DEVELOPMENT ASSISTANCE
+
+Efforts to gather data on grants and loans to promote ecotourism are obscured by ecotourism’s vague
+definition and confusion with larger development initiatives. However, research by George
+Washington University’s International Institute of Tourism Studies (GWU/IITS) provides a point of
+context. Through their Development Assistance Network for Tourism Enhancement and Investment
+(DANTED), researchers found that from 2001 to 2010, at least US$9.43 billion will have poured into
+363 projects from donors for tourism development projects around the world. Foundation funding for
+ecotourism would make up less than one percent of this amount, which averages $US one billion
+each year.
+
+Many developing countries today look to tourism as a potentially promising avenue for economic and
+human development. This perception is relatively new for some of them, and reflects the rapid increase
+in tourism arrivals, numbers and revenues for many developing countries in recent years. Traditionally,
+tourism has been given lower priority than agriculture or manufacturing since it has not been
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 34
+
+considered a significant or appropriate source of growth. Increasingly, however, the sector is valued as a
+means of earning export revenues, generating jobs, promoting economic diversification, supporting a
+more services-oriented economy, helping to revive declining urban areas and cultural activities, and
+opening up remote rural regions. Foreign direct investment (FDI) is one vehicle through which
+developing countries can develop their tourism sector; but the dynamics of FDI and its implications in
+this growing sector have been relatively little studied. Because tourism is an industry that needs to be
+managed carefully, with or without FDI, and because FDI in this activity presents special challenges
+and concerns, policy makers need to design policies that take advantage of opportunities it offers while
+minimizing its costs.
+
+The impact of tourism-related FDI can vary according to specific country and historical contexts.
+
+It finds, for example, that much depends upon the host country’s level of economic and human
+development, including the extent to which it can leverage the presence of transnational corporations
+to foster domestic enterprise. This ability relates to host countries’ absorptive and productive capacities,
+which in turn is associated with the extent to which foreign enterprises have linkages with the domestic
+economy, be it in ways that are complementary or competitive vis-a-vis local companies. These
+elements can, to some degree, be influenced by government policy (UNCTAD, 2007).
+
+THE FUTURE OF TOURISM
+
+Understanding how the tourism sector changes and anticipating how tourism demand and supply will
+develop in the future remains a subject of intense interest for businesses and destination management
+organizations alike. Anticipating if and how tourism will change in the future is a strategic
+requirement for the tourism sector, especially since the public sector needs to understand implications
+of tourism growth to develop infrastructure and facilities of the future. Given lead times for new
+infrastructure development (typically in excess of ten years for airports and transportation
+infrastructure) managers need both to know what the future may look like and also understand some
+tools and techniques for outlining it. Tools and techniques to develop an understanding of the future of
+tourism will be examined in more depth in Unit 5 (UNWTO, 2011).
+
+SUMMARY
+
+UNWTO has been instrumental in setting policy and practice recommendations for sustainable
+tourism. As a product, tourism is different in that it involves extensive pre- and post-consumption
+stages, so it is important to understand the visitor as well as destination management strategy when
+making policy. Market segmentation provides a useful framework for understanding different visitor
+characteristics. Many other social, environmental, and conservation-related factors affect the
+sustainability of policy and practices. As we will see in later units, the negative impacts of tourism
+development can gradually destroy the environmental resources upon which it depends; yet tourism is
+uniquely positioned to make a positive contribution to conservation. Tourism also can be a force for
+social change as more travel companies engage in corporate reporting and develop new media
+marketing strategies. Because tourism as an industry sector is very fragmented and because of its
+inherent challenges, sustainable collaboration with partners and other stakeholders is critical to
+achieving competitive and sustainable tourism.
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 35
+
+FOR MORE INFORMATION
+
+¢ On funding and investment, see the Sustainable Investment and Finance for Tourism Module.
+
+* On destination development, see the Tourism Destination Management Module.
+
+¢ For a copy of the Global Code of Ethics go to
+www.gwu.edu/~iits/Sustainable_Tourism_Online_Learning/Mullis/WTOGlobalEthicsCode.pdf
+
+GLOBAL TOURISM: ACHIEVING SUSTAINABLE GOALS 36
