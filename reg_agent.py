@@ -6,17 +6,14 @@ from dotenv import load_dotenv
 import os
 import requests
 
-# --------------------------------------------------
 # 1️⃣ Load environment and retriever
-# --------------------------------------------------
 load_dotenv()
 COINMARKETCAP_API_KEY = os.getenv("COINMARKETCAP_API_KEY")
 vectorstore = load_vectorstore()
 retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
-# --------------------------------------------------
+
 # 2️⃣ Define crypto price tool
-# --------------------------------------------------
 @tool(description="Get the current price of a cryptocurrency by symbol (e.g., BTC, ETH)")
 def get_crypto_price(symbol: str) -> str:
     """Fetch current cryptocurrency price from CoinMarketCap"""
@@ -36,9 +33,7 @@ def get_crypto_price(symbol: str) -> str:
     except KeyError:
         return f"Could not find price for {symbol.upper()}"
 
-# --------------------------------------------------
 # 3️⃣ Define PDF retriever tool
-# --------------------------------------------------
 @tool(description="Search PDF knowledge base for relevant information")
 def search_pdf(query: str) -> str:
     """Retrieve text from FAISS vectorstore"""
@@ -48,14 +43,11 @@ def search_pdf(query: str) -> str:
     context = "\n\n".join([doc.page_content for doc in docs])
     return f"Context from PDF:\n{context}"
 
-# --------------------------------------------------
 # 4️⃣ Initialize Gemini LLM
-# --------------------------------------------------
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0)
 
-# --------------------------------------------------
 # 5️⃣ Create reasoning agent with both tools
-# --------------------------------------------------
+
 system_prompt = """
 You are a smart assistant that can access two tools:
 1. 'get_crypto_price' — use when the user asks about cryptocurrencies, coins, or prices.
@@ -74,14 +66,9 @@ agent = create_agent(
     system_prompt=system_prompt
 )
 
-# agent_executor = AgentExecutor(agent=agent, tools=[get_crypto_price, search_pdf], verbose=True)
-
-# --------------------------------------------------
 # 6️⃣ User interaction
-# --------------------------------------------------
 print("\n💬 Smart Assistant is ready!")
 print("Ask something like:")
-
 
 while True:
     user_input = input("\nYou: ")   # Take any question from the user
