@@ -16,9 +16,8 @@ FAISS_DIR = "faiss_index"
 # Tesseract OCR path
 pytesseract.pytesseract.tesseract_cmd = r"C:\Users\Orcalo pc 8\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
 
-# -----------------------------
+
 # Step 1: Extract text from selected pages using OCR
-# -----------------------------
 def extract_selected_text_ocr(pdf_path, start_page=2, end_page=39):
     pdf = fitz.open(pdf_path)
     pages_text = []
